@@ -90,3 +90,8 @@ footer{
 .articles article{
     width: 30%;
 }
+#id, h2{
+    display: flex;
+    justify-content: center;
+
+}
